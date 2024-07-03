@@ -2,10 +2,7 @@
 <manifest>
         <remote  name="github"
                 fetch="https://github.com" />
-
-	<remote  name="gitlab"
-                fetch="https://gitlab.com" />
-
+	
 <!-- Trees --> 
  <project path="device/xiaomi/earth" name="devbx/device_android_xiaomi_earth" remote="github" revision="u" />
  <project path="vendor/xiaomi/earth" name="mt6768-dev/proprietary_vendor_xiaomi_earth" remote="github" revision="lineage-21" clone-depth="1" />
