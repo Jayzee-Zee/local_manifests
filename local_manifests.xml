@@ -4,7 +4,7 @@
                 fetch="https://github.com" />
 	
 <!-- Trees --> 
- <project path="device/xiaomi/earth" name="devbx/device_android_xiaomi_earth" remote="ghubb" revision="d463bae" />
+ <project path="device/xiaomi/earth" name="devbx/device_android_xiaomi_earth" remote="ghubb" revision="d463baeaeeec3514d8b5e5f1d62506c496538e2d" />
  <project path="vendor/xiaomi/earth" name="mt6768-dev/proprietary_vendor_xiaomi_earth" remote="ghubb" revision="lineage-21" clone-depth="1" />
  <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" remote="ghubb" revision="lineage-21" clone-depth="1" />
  <project path="kernel/xiaomi/earth" name="LineageOS/android_kernel_xiaomi_earth" remote="ghubb" revision="lineage-21" clone-depth="1" />
