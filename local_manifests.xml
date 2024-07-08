@@ -13,6 +13,6 @@
 
 <!-- frameworks_base -->
  <remove-project name="frameworks_base" />
- <project path="frameworks/base" name="Evolution-XYZ/frameworks_base" remote="ghubb" revision="udc" clone-depth="1" />
+ <project path="frameworks/base" name="DroidX-UI/frameworks_base" remote="ghubb" revision="14_v3" clone-depth="1" />
 
 </manifest>
