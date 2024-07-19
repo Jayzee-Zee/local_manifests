@@ -13,6 +13,7 @@
 
 <!-- frameworks_base -->
  <remove-project name="frameworks_base" />
+ <remove-project name="device_mediatek_sepolicy_vndr" />
  <project path="frameworks/base" name="DroidX-UI/frameworks_base" remote="ghubb" revision="14_v3" clone-depth="1" />
 
 </manifest>
