@@ -5,10 +5,10 @@
 	
 <!-- Trees --> 
  <project path="device/xiaomi/earth" name="devbx/android_device_xiaomi_earth" remote="ghubb" revision="dxui" clone-depth="1" />
- <project path="vendor/xiaomi/earth" name="mt6768-dev/proprietary_vendor_xiaomi_earth" remote="ghubb" revision="lineage-21" clone-depth="1" />
+ <project path="vendor/xiaomi/earth" name="mt6768-dev/proprietary_vendor_xiaomi_earth" remote="ghubb" revision="lineage-21" />
  <project path="kernel/xiaomi/earth" name="devbx/android_kernel_xiaomi_earth" remote="ghubb" revision="matrixx" clone-depth="1" />
 
 <!-- frameworks_base -->
  <remove-project name="frameworks_base" />
- <project path="frameworks/base" name="DroidX-UI/frameworks_base" remote="ghubb" revision="14_v3" clone-depth="1" />
+ <project path="frameworks/base" name="ProjectSakura/frameworks_base" remote="ghubb" revision="14" clone-depth="1" />
 </manifest>
