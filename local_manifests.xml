@@ -8,7 +8,6 @@
  <project path="vendor/xiaomi/earth" name="mt6768-dev/proprietary_vendor_xiaomi_earth" remote="ghubb" revision="lineage-21" />
  <project path="kernel/xiaomi/earth" name="Jayzee-Zee/android_kernel_xiaomi_earth" remote="ghubb" revision="matrixx" clone-depth="1" />
 
-<!-- frameworks_base -->
- <remove-project name="frameworks_base" />
+<!-- frameworks_base --!>
  <project path="frameworks/base" name="RisingTechOSS/frameworks_base" remote="ghubb" revision="14" clone-depth="1" />
 </manifest>
