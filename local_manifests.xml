@@ -10,5 +10,5 @@
 
 <!-- frameworks_base -->
  <remove-project name="frameworks_base" />
- <project path="frameworks/base" name="ProjectSakura/frameworks_base" remote="ghubb" revision="14" clone-depth="1" />
+ <project path="frameworks/base" name="CipherOS/frameworks_base" remote="ghubb" revision="14" clone-depth="1" />
 </manifest>
